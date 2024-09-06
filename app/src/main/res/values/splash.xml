@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--splash screen tools-->
+<resources>
+    <style name="Theme.AnimatedSplash.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/green</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="android:windowSplashScreenAnimationDuration">5000</item>
+        <item name="postSplashScreenTheme">@style/Theme.AnimatedSplash.MySplash</item>
+    </style>
+</resources>

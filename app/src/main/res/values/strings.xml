@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HardwareStore</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_account">Login To Your Account</string>
+    <string name="Email_Address">Email Address/User Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_in_with">Or Sign In With</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="categories">Categories</string>
+    <string name="newarrivals">New Arrivals</string>
+    <string name="seemore">View More</string>
+    <string name="fastners">Fastners</string>
+    <string name="handtools">Hand Tools</string>
+    <string name="powertools">Power Tools</string>
+    <string name="paints">Paints</string>
+    <string name="buildingitems">Building Items</string>
+    <string name="electricals">Electricals</string>
+    <string name="plumbing">Plumbing</string>
+    <string name="brands">Brands</string>
+</resources>
